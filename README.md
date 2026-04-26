@@ -33,5 +33,5 @@ Asegurate de tener Python 3 instalado en tu sistema. Cloná este repositorio y e
 python3 tpi_matematica.py
 ```
 
-Autor: Christian
-Institución: Universidad Tecnológica Nacional (UTN) - FRCh
+**Autor:** Christian
+**Institución:** Universidad Tecnológica Nacional (UTN) - FRCh
